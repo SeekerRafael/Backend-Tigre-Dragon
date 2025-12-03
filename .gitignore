@@ -1,0 +1,39 @@
+# ENTORNOS VIRTUALES
+.venv/
+venv/
+env/
+ENV/
+
+# ARCHIVOS DE ENTORNO
+.env
+.env.local
+.env.*.local
+
+# __pycache__
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpetas de configuración
+.idea/
+.vscode/
+
+# Archivos de dependencias compiladas
+*.so
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Carpetas de Python
+build/
+dist/
+*.egg-info/
+
+# Archivos sensibles o privados
+secrets.json
+config.json
